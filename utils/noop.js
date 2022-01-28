@@ -1,1 +1,3 @@
-function noop() {}
+function noop() {
+  console.log("noop");
+}
