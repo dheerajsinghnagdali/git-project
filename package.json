@@ -1,0 +1,23 @@
+{
+  "name": "git-project",
+  "version": "1.0.0",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheerajsinghnagdali/git-project.git"
+  },
+  "author": "Dheeraj Singh Nagdali <dheerajsinghnagdali@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dheerajsinghnagdali/git-project/issues"
+  },
+  "homepage": "https://github.com/dheerajsinghnagdali/git-project#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^16.1.0",
+    "@commitlint/config-conventional": "^16.0.0",
+    "husky": "^7.0.4",
+    "prettier": "^2.5.1"
+  }
+}
