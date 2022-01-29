@@ -3,5 +3,5 @@ function noop() {
 }
 
 function isValidProp() {
-  console.log("no this is not");
+  const props = {};
 }
